@@ -1,0 +1,6 @@
+## This project uses only Python standard libraries (tkinter, webbrowser).
+## If you want matplotlib or numpy add them here.
+
+# Example (optional):
+# matplotlib
+# numpy
